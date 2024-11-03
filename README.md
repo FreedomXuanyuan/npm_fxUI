@@ -1,8 +1,9 @@
-<br />
+
 <br />
 <div style="text-align:center">
 <b style="font-size:30px">FxSwitch</b>
 <p>基于Vite+TypeScript的Vue3组件库</p>
+<p>使用了pnpm进行了包的管理</p>
 FxSwitch
 开关<br />
 Button
