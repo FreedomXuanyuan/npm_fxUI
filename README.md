@@ -4,6 +4,7 @@
 <b style="font-size:30px">FxSwitch</b>
 <p>基于Vite+TypeScript的Vue3组件库</p>
 <p>使用了pnpm进行了包的管理</p>
+<p>使用命令npm i fxswitch即可直接在vue3项目中直接使用</p>
 FxSwitch
 开关<br />
 Button
